@@ -1,0 +1,161 @@
+{
+    "m_SelectedDeviceId": "RF8MB0QXQKE",
+    "m_SelectedPackage": {
+        "deviceId": "RF8MB0QXQKE",
+        "name": "com.DefaultCompany.ColorRings",
+        "processId": 22313,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "RF8MB0QXQKE",
+            "name": "com.android.settings",
+            "processId": 10708,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MB0QXQKE",
+            "name": "com.DefaultCompany.ColorRings",
+            "processId": 19828,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MB0QXQKE",
+            "name": "com.DefaultCompany.ColorRings",
+            "processId": 9813,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MB0QXQKE",
+            "name": "com.DefaultCompany.ColorRings",
+            "processId": 17520,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MB0QXQKE",
+            "name": "com.DefaultCompany.ColorRings",
+            "processId": 18589,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MB0QXQKE",
+            "name": "com.DefaultCompany.ColorRings",
+            "processId": 19331,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MB0QXQKE",
+            "name": "com.DefaultCompany.ColorRings",
+            "processId": 19645,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MB0QXQKE",
+            "name": "com.DefaultCompany.ColorRings",
+            "processId": 20072,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MB0QXQKE",
+            "name": "com.DefaultCompany.ColorRings",
+            "processId": 20968,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MB0QXQKE",
+            "name": "com.DefaultCompany.ColorRings",
+            "processId": 21705,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MB0QXQKE",
+            "name": "com.DefaultCompany.ColorRings",
+            "processId": 22113,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MB0QXQKE",
+            "name": "com.DefaultCompany.ColorRings",
+            "processId": 22572,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MB0QXQKE",
+            "name": "com.DefaultCompany.ColorRings",
+            "processId": 24493,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MB0QXQKE",
+            "name": "com.DefaultCompany.ColorRings",
+            "processId": 3227,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MB0QXQKE",
+            "name": "com.DefaultCompany.ColorRings",
+            "processId": 4930,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8MB0QXQKE",
+            "name": "com.DefaultCompany.ColorRings",
+            "processId": 22313,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
