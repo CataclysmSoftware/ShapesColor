@@ -1,7 +1,7 @@
 # Shapes Color
 
 ## Main Screen
-<img src="https://i.imgur.com/xo3WChN.jpg" width="1000" height="473"/>
+<img src="https://i.imgur.com/xo3WChN.jpg" width="473" height="1000"/>
 
 ## Gameplay
 <img src="https://i.imgur.com/a9trx3e.jpg" width="800" height="450" />
