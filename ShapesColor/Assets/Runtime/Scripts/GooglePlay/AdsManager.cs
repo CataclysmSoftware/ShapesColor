@@ -37,7 +37,7 @@ public class AdsManager : MonoBehaviour
 
 	public void ShowInterstitialAd()
 	{
-		if (CanWatchInterstitialAd)
+		if (CanWatchInterstitialAd && interstitialAd.IsLoaded())
 		{
 			interstitialAd.Show();
 			CanWatchInterstitialAd = false;
@@ -50,7 +50,7 @@ public class AdsManager : MonoBehaviour
 
 	public void ShowRewardedAd()
 	{
-		if (CanWatchRewardedAd)
+		if (CanWatchRewardedAd && rewardedAd.IsLoaded())
 		{
 			rewardedAd.Show();
 			CanWatchRewardedAd = false;
